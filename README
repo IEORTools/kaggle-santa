@@ -1,0 +1,10 @@
+###### file: README #######
+
+Kaggle Santa TSP competition R files
+
+developer:  Larry    larrydag -@- s b c g l o b a l . n e t
+homepage:  www.ieortools.com
+
+
+includes:
+santa.R   - R file with TSP script
